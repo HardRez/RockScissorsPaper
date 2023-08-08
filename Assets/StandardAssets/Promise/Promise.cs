@@ -1,10 +1,9 @@
-using RSG.Promises;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using RSG.Exceptions;
+using StandardAssets.Promise.Exceptions;
 
-namespace RSG
+namespace StandardAssets.Promise
 {
     /// <summary>
     /// Implements a C# promise.

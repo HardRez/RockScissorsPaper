@@ -1,9 +1,6 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
-namespace RSG.Exceptions
+namespace StandardAssets.Promise.Exceptions
 {
     /// <summary>
     /// Exception thrown when an operation is performed on a promise that is in an invalid

@@ -9,7 +9,7 @@ namespace Runtime.Context.Game.Scripts.View.Greeting
     public TMP_InputField p1NameInput;
     
     public TMP_InputField p2NameInput;
-
+    
     public void OnCheckAndContinueClick()
     {
       // Debug.Log("GreetingPanelView> OnCheckAndContinueClick");

@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace RSG
+namespace StandardAssets.Promise
 {
 
     public class PromiseCancelledException : Exception

@@ -1,4 +1,4 @@
-namespace RSG
+namespace StandardAssets.Promise
 {
     /// <summary>
     /// Provides static methods for creating tuple objects.

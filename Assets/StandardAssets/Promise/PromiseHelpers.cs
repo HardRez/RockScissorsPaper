@@ -1,4 +1,4 @@
-namespace RSG
+namespace StandardAssets.Promise
 {
     public static class PromiseHelpers
     {
